@@ -1,0 +1,11 @@
+- model: schedules.Subject
+  pk: 1
+  fields:
+    name: "Math"
+    teacher: 1
+
+- model: schedules.Subject
+  pk: 2
+  fields:
+    name: "Science"
+    teacher: 2

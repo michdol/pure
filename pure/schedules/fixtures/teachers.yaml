@@ -1,0 +1,9 @@
+- model: schedules.Teacher
+  pk: 1
+  fields:
+    name: "Wolverine"
+
+- model: schedules.Teacher
+  pk: 2
+  fields:
+    name: "Batman"

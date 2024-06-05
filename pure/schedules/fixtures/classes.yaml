@@ -1,0 +1,9 @@
+- model: schedules.Class
+  pk: 1
+  fields:
+    name: "5A"
+
+- model: schedules.Class
+  pk: 2
+  fields:
+    name: "6A"

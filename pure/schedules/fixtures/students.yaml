@@ -1,0 +1,41 @@
+- model: schedules.Student
+  pk: 1
+  fields:
+    name: "Alice"
+    _class: 1
+
+- model: schedules.Student
+  pk: 2
+  fields:
+    name: "Bob"
+    _class: 2
+
+- model: schedules.Student
+  pk: 3
+  fields:
+    name: "Charlie"
+    _class: 1
+
+- model: schedules.Student
+  pk: 4
+  fields:
+    name: "David"
+    _class: 2
+
+- model: schedules.Student
+  pk: 5
+  fields:
+    name: "Eve"
+    _class: 1
+
+- model: schedules.Student
+  pk: 6
+  fields:
+    name: "Frank"
+    _class: 2
+
+- model: schedules.Student
+  pk: 7
+  fields:
+    name: "Grace"
+    _class: 1

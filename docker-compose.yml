@@ -1,0 +1,29 @@
+version: '3'
+services:
+  db:
+    image: postgres
+    volumes:
+      - ./data/db:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=puredb
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+  pure_backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - REQUIREMENTS_FILE=requirements.txt
+    container_name: pure_web
+    environment:
+      - POSTGRES_DB=puredb
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./:/pure
+    env_file:
+      - .env
+    depends_on:
+      - db
