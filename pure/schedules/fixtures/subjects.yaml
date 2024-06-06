@@ -3,9 +3,88 @@
   fields:
     name: "Math"
     teacher: 1
-
 - model: schedules.Subject
   pk: 2
   fields:
     name: "Science"
     teacher: 2
+- model: schedules.Subject
+  pk: 3
+  fields:
+    name: "Biology"
+    teacher: 3
+- model: schedules.Subject
+  pk: 4
+  fields:
+    name: "Chemistry"
+    teacher: 4
+- model: schedules.Subject
+  pk: 5
+  fields:
+    name: "History"
+    teacher: 5
+- model: schedules.Subject
+  pk: 6
+  fields:
+    name: "English"
+    teacher: 6
+- model: schedules.Subject
+  pk: 7
+  fields:
+    name: "Economy"
+    teacher: 7
+- model: schedules.Subject
+  pk: 8
+  fields:
+    name: "PE"
+    teacher: 8
+- model: schedules.Subject
+  pk: 9
+  fields:
+    name: "Martial Arts"
+    teacher: 9
+- model: schedules.Subject
+  pk: 10
+  fields:
+    name: "History"
+    teacher: 10
+- model: schedules.Subject
+  pk: 11
+  fields:
+    name: "Math"
+    teacher: 11
+- model: schedules.Subject
+  pk: 12
+  fields:
+    name: "Biology"
+    teacher: 12
+- model: schedules.Subject
+  pk: 13
+  fields:
+    name: "History"
+    teacher: 13
+- model: schedules.Subject
+  pk: 14
+  fields:
+    name: "History"
+    teacher: 14
+- model: schedules.Subject
+  pk: 15
+  fields:
+    name: "History"
+    teacher: 15
+- model: schedules.Subject
+  pk: 16
+  fields:
+    name: "History"
+    teacher: 16
+- model: schedules.Subject
+  pk: 17
+  fields:
+    name: "History"
+    teacher: 17
+- model: schedules.Subject
+  pk: 18
+  fields:
+    name: "History"
+    teacher: 18

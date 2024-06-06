@@ -26,6 +26,7 @@ class ScheduleViewSetTest(TestCase):
 
         self.assertEqual(response.status_code, status.HTTP_200_OK)
         expected_count = Schedule.objects.all().count()
+        print("expected_count", expected_count)
         self.assertEqual(expected_count, len(response.data))
 
         schedule1 = response.data[0]
@@ -42,8 +43,11 @@ class ScheduleViewSetTest(TestCase):
 
     @mock.patch("schedules.filters.datetime")
     def test_get_by_class_name_today(self, mock_datetime):
-        mock_datetime.now.return_value = datetime(2024, 6, 5, 3, 10, 0, 0)
+        # Monday (03/06/2024)
+        mock_datetime.now.return_value = datetime(2024, 6, 3, 3, 10, 0, 0)
         class_param = "5A"
+        # Monday
+        day_of_week = 0
         response = self.client.get("/schedules/", data={"class": class_param, "today": True})
-        expected_count = Schedule.objects.filter(_class__name=class_param, day_of_week=1).count()
+        expected_count = Schedule.objects.filter(_class__name=class_param, day_of_week=day_of_week).count()
         self.assertEqual(len(response.data), expected_count)

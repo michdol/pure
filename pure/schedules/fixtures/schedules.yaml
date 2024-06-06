@@ -2,350 +2,7055 @@
   pk: 1
   fields:
     _class: 1
-    subject: 1
-    day_of_week: 1
-    hour: "09:00:00"
-
-- model: schedules.Schedule
-  pk: 2
-  fields:
-    _class: 2
-    subject: 2
-    day_of_week: 2
-    hour: "10:00:00"
-
-- model: schedules.Schedule
-  pk: 1
-  fields:
-    _class: 1
-    subject: 1
+    subject: 12
     day_of_week: 0
-    hour: "09:00:00"
-
+    hour: "8:00:00"
 - model: schedules.Schedule
   pk: 2
   fields:
     _class: 1
-    subject: 2
+    subject: 16
     day_of_week: 0
-    hour: "10:00:00"
-
+    hour: "9:00:00"
 - model: schedules.Schedule
   pk: 3
   fields:
-    _class: 2
-    subject: 1
+    _class: 1
+    subject: 9
     day_of_week: 0
-    hour: "11:00:00"
-
+    hour: "10:00:00"
 - model: schedules.Schedule
   pk: 4
   fields:
-    _class: 2
-    subject: 2
+    _class: 1
+    subject: 18
     day_of_week: 0
-    hour: "12:00:00"
-
+    hour: "11:00:00"
 - model: schedules.Schedule
   pk: 5
   fields:
     _class: 1
-    subject: 1
+    subject: 15
     day_of_week: 0
-    hour: "13:00:00"
-
+    hour: "12:00:00"
 - model: schedules.Schedule
   pk: 6
   fields:
     _class: 1
-    subject: 2
+    subject: 3
     day_of_week: 0
-    hour: "14:00:00"
-
+    hour: "13:00:00"
 - model: schedules.Schedule
   pk: 7
   fields:
-    _class: 2
-    subject: 1
+    _class: 1
+    subject: 6
     day_of_week: 0
-    hour: "15:00:00"
-
+    hour: "14:00:00"
 - model: schedules.Schedule
   pk: 8
   fields:
-    _class: 2
+    _class: 1
     subject: 2
-    day_of_week: 1
-    hour: "09:00:00"
-
+    day_of_week: 0
+    hour: "15:00:00"
 - model: schedules.Schedule
   pk: 9
+  fields:
+    _class: 2
+    subject: 3
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 10
+  fields:
+    _class: 2
+    subject: 12
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 11
+  fields:
+    _class: 2
+    subject: 14
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 12
+  fields:
+    _class: 2
+    subject: 6
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 13
+  fields:
+    _class: 2
+    subject: 15
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 14
+  fields:
+    _class: 2
+    subject: 11
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 15
+  fields:
+    _class: 2
+    subject: 5
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 16
+  fields:
+    _class: 2
+    subject: 9
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 17
+  fields:
+    _class: 3
+    subject: 15
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 18
+  fields:
+    _class: 3
+    subject: 16
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 19
+  fields:
+    _class: 3
+    subject: 14
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 20
+  fields:
+    _class: 3
+    subject: 7
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 21
+  fields:
+    _class: 3
+    subject: 5
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 22
+  fields:
+    _class: 3
+    subject: 17
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 23
+  fields:
+    _class: 3
+    subject: 18
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 24
+  fields:
+    _class: 3
+    subject: 10
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 25
+  fields:
+    _class: 4
+    subject: 16
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 26
+  fields:
+    _class: 4
+    subject: 5
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 27
+  fields:
+    _class: 4
+    subject: 15
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 28
+  fields:
+    _class: 4
+    subject: 9
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 29
+  fields:
+    _class: 4
+    subject: 8
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 30
+  fields:
+    _class: 4
+    subject: 3
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 31
+  fields:
+    _class: 4
+    subject: 6
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 32
+  fields:
+    _class: 4
+    subject: 2
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 33
+  fields:
+    _class: 5
+    subject: 1
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 34
+  fields:
+    _class: 5
+    subject: 13
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 35
+  fields:
+    _class: 5
+    subject: 9
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 36
+  fields:
+    _class: 5
+    subject: 3
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 37
+  fields:
+    _class: 5
+    subject: 16
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 38
+  fields:
+    _class: 5
+    subject: 15
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 39
+  fields:
+    _class: 5
+    subject: 10
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 40
+  fields:
+    _class: 5
+    subject: 17
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 41
+  fields:
+    _class: 6
+    subject: 2
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 42
+  fields:
+    _class: 6
+    subject: 14
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 43
+  fields:
+    _class: 6
+    subject: 18
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 44
+  fields:
+    _class: 6
+    subject: 12
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 45
+  fields:
+    _class: 6
+    subject: 5
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 46
+  fields:
+    _class: 6
+    subject: 10
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 47
+  fields:
+    _class: 6
+    subject: 6
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 48
+  fields:
+    _class: 6
+    subject: 8
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 49
+  fields:
+    _class: 7
+    subject: 8
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 50
+  fields:
+    _class: 7
+    subject: 15
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 51
+  fields:
+    _class: 7
+    subject: 11
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 52
+  fields:
+    _class: 7
+    subject: 12
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 53
+  fields:
+    _class: 7
+    subject: 18
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 54
+  fields:
+    _class: 7
+    subject: 1
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 55
+  fields:
+    _class: 7
+    subject: 17
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 56
+  fields:
+    _class: 7
+    subject: 14
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 57
+  fields:
+    _class: 8
+    subject: 3
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 58
+  fields:
+    _class: 8
+    subject: 7
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 59
+  fields:
+    _class: 8
+    subject: 9
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 60
+  fields:
+    _class: 8
+    subject: 1
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 61
+  fields:
+    _class: 8
+    subject: 18
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 62
+  fields:
+    _class: 8
+    subject: 6
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 63
+  fields:
+    _class: 8
+    subject: 12
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 64
+  fields:
+    _class: 8
+    subject: 17
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 65
+  fields:
+    _class: 9
+    subject: 10
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 66
+  fields:
+    _class: 9
+    subject: 5
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 67
+  fields:
+    _class: 9
+    subject: 9
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 68
+  fields:
+    _class: 9
+    subject: 2
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 69
+  fields:
+    _class: 9
+    subject: 13
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 70
+  fields:
+    _class: 9
+    subject: 17
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 71
+  fields:
+    _class: 9
+    subject: 8
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 72
+  fields:
+    _class: 9
+    subject: 15
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 73
+  fields:
+    _class: 10
+    subject: 12
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 74
+  fields:
+    _class: 10
+    subject: 8
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 75
+  fields:
+    _class: 10
+    subject: 9
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 76
+  fields:
+    _class: 10
+    subject: 6
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 77
+  fields:
+    _class: 10
+    subject: 4
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 78
+  fields:
+    _class: 10
+    subject: 2
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 79
+  fields:
+    _class: 10
+    subject: 11
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 80
+  fields:
+    _class: 10
+    subject: 14
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 81
+  fields:
+    _class: 11
+    subject: 15
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 82
+  fields:
+    _class: 11
+    subject: 12
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 83
+  fields:
+    _class: 11
+    subject: 1
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 84
+  fields:
+    _class: 11
+    subject: 3
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 85
+  fields:
+    _class: 11
+    subject: 5
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 86
+  fields:
+    _class: 11
+    subject: 11
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 87
+  fields:
+    _class: 11
+    subject: 8
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 88
+  fields:
+    _class: 11
+    subject: 10
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 89
+  fields:
+    _class: 12
+    subject: 5
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 90
+  fields:
+    _class: 12
+    subject: 9
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 91
+  fields:
+    _class: 12
+    subject: 13
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 92
+  fields:
+    _class: 12
+    subject: 2
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 93
+  fields:
+    _class: 12
+    subject: 12
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 94
+  fields:
+    _class: 12
+    subject: 16
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 95
+  fields:
+    _class: 12
+    subject: 6
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 96
+  fields:
+    _class: 12
+    subject: 1
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 97
+  fields:
+    _class: 13
+    subject: 1
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 98
+  fields:
+    _class: 13
+    subject: 12
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 99
+  fields:
+    _class: 13
+    subject: 18
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 100
+  fields:
+    _class: 13
+    subject: 4
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 101
+  fields:
+    _class: 13
+    subject: 6
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 102
+  fields:
+    _class: 13
+    subject: 3
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 103
+  fields:
+    _class: 13
+    subject: 2
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 104
+  fields:
+    _class: 13
+    subject: 11
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 105
+  fields:
+    _class: 14
+    subject: 2
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 106
+  fields:
+    _class: 14
+    subject: 3
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 107
+  fields:
+    _class: 14
+    subject: 18
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 108
+  fields:
+    _class: 14
+    subject: 17
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 109
+  fields:
+    _class: 14
+    subject: 5
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 110
+  fields:
+    _class: 14
+    subject: 10
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 111
+  fields:
+    _class: 14
+    subject: 14
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 112
+  fields:
+    _class: 14
+    subject: 8
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 113
+  fields:
+    _class: 15
+    subject: 13
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 114
+  fields:
+    _class: 15
+    subject: 2
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 115
+  fields:
+    _class: 15
+    subject: 7
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 116
+  fields:
+    _class: 15
+    subject: 1
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 117
+  fields:
+    _class: 15
+    subject: 16
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 118
+  fields:
+    _class: 15
+    subject: 4
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 119
+  fields:
+    _class: 15
+    subject: 8
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 120
+  fields:
+    _class: 15
+    subject: 6
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 121
+  fields:
+    _class: 16
+    subject: 16
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 122
+  fields:
+    _class: 16
+    subject: 5
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 123
+  fields:
+    _class: 16
+    subject: 7
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 124
+  fields:
+    _class: 16
+    subject: 3
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 125
+  fields:
+    _class: 16
+    subject: 10
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 126
+  fields:
+    _class: 16
+    subject: 4
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 127
+  fields:
+    _class: 16
+    subject: 12
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 128
+  fields:
+    _class: 16
+    subject: 15
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 129
+  fields:
+    _class: 17
+    subject: 12
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 130
+  fields:
+    _class: 17
+    subject: 13
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 131
+  fields:
+    _class: 17
+    subject: 10
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 132
+  fields:
+    _class: 17
+    subject: 1
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 133
+  fields:
+    _class: 17
+    subject: 14
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 134
+  fields:
+    _class: 17
+    subject: 18
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 135
+  fields:
+    _class: 17
+    subject: 6
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 136
+  fields:
+    _class: 17
+    subject: 3
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 137
+  fields:
+    _class: 18
+    subject: 5
+    day_of_week: 0
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 138
+  fields:
+    _class: 18
+    subject: 10
+    day_of_week: 0
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 139
+  fields:
+    _class: 18
+    subject: 17
+    day_of_week: 0
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 140
+  fields:
+    _class: 18
+    subject: 18
+    day_of_week: 0
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 141
+  fields:
+    _class: 18
+    subject: 12
+    day_of_week: 0
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 142
+  fields:
+    _class: 18
+    subject: 9
+    day_of_week: 0
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 143
+  fields:
+    _class: 18
+    subject: 15
+    day_of_week: 0
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 144
+  fields:
+    _class: 18
+    subject: 13
+    day_of_week: 0
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 1
+  fields:
+    _class: 1
+    subject: 10
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 2
+  fields:
+    _class: 1
+    subject: 15
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 3
   fields:
     _class: 1
     subject: 1
     day_of_week: 1
     hour: "10:00:00"
-
 - model: schedules.Schedule
-  pk: 10
+  pk: 4
+  fields:
+    _class: 1
+    subject: 5
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 5
+  fields:
+    _class: 1
+    subject: 17
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 6
+  fields:
+    _class: 1
+    subject: 12
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 7
+  fields:
+    _class: 1
+    subject: 6
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 8
   fields:
     _class: 1
     subject: 2
     day_of_week: 1
-    hour: "11:00:00"
-
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 9
+  fields:
+    _class: 2
+    subject: 16
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 10
+  fields:
+    _class: 2
+    subject: 18
+    day_of_week: 1
+    hour: "9:00:00"
 - model: schedules.Schedule
   pk: 11
   fields:
     _class: 2
-    subject: 1
+    subject: 14
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 12
+  fields:
+    _class: 2
+    subject: 5
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 13
+  fields:
+    _class: 2
+    subject: 2
     day_of_week: 1
     hour: "12:00:00"
-
+- model: schedules.Schedule
+  pk: 14
+  fields:
+    _class: 2
+    subject: 9
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 15
+  fields:
+    _class: 2
+    subject: 4
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 16
+  fields:
+    _class: 2
+    subject: 12
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 17
+  fields:
+    _class: 3
+    subject: 17
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 18
+  fields:
+    _class: 3
+    subject: 9
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 19
+  fields:
+    _class: 3
+    subject: 12
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 20
+  fields:
+    _class: 3
+    subject: 5
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 21
+  fields:
+    _class: 3
+    subject: 3
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 22
+  fields:
+    _class: 3
+    subject: 7
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 23
+  fields:
+    _class: 3
+    subject: 2
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 24
+  fields:
+    _class: 3
+    subject: 14
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 25
+  fields:
+    _class: 4
+    subject: 11
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 26
+  fields:
+    _class: 4
+    subject: 15
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 27
+  fields:
+    _class: 4
+    subject: 16
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 28
+  fields:
+    _class: 4
+    subject: 14
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 29
+  fields:
+    _class: 4
+    subject: 12
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 30
+  fields:
+    _class: 4
+    subject: 6
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 31
+  fields:
+    _class: 4
+    subject: 1
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 32
+  fields:
+    _class: 4
+    subject: 8
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 33
+  fields:
+    _class: 5
+    subject: 15
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 34
+  fields:
+    _class: 5
+    subject: 1
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 35
+  fields:
+    _class: 5
+    subject: 3
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 36
+  fields:
+    _class: 5
+    subject: 12
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 37
+  fields:
+    _class: 5
+    subject: 5
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 38
+  fields:
+    _class: 5
+    subject: 13
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 39
+  fields:
+    _class: 5
+    subject: 17
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 40
+  fields:
+    _class: 5
+    subject: 16
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 41
+  fields:
+    _class: 6
+    subject: 6
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 42
+  fields:
+    _class: 6
+    subject: 9
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 43
+  fields:
+    _class: 6
+    subject: 12
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 44
+  fields:
+    _class: 6
+    subject: 8
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 45
+  fields:
+    _class: 6
+    subject: 3
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 46
+  fields:
+    _class: 6
+    subject: 15
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 47
+  fields:
+    _class: 6
+    subject: 14
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 48
+  fields:
+    _class: 6
+    subject: 16
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 49
+  fields:
+    _class: 7
+    subject: 9
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 50
+  fields:
+    _class: 7
+    subject: 11
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 51
+  fields:
+    _class: 7
+    subject: 12
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 52
+  fields:
+    _class: 7
+    subject: 2
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 53
+  fields:
+    _class: 7
+    subject: 14
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 54
+  fields:
+    _class: 7
+    subject: 4
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 55
+  fields:
+    _class: 7
+    subject: 17
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 56
+  fields:
+    _class: 7
+    subject: 3
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 57
+  fields:
+    _class: 8
+    subject: 17
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 58
+  fields:
+    _class: 8
+    subject: 14
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 59
+  fields:
+    _class: 8
+    subject: 6
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 60
+  fields:
+    _class: 8
+    subject: 16
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 61
+  fields:
+    _class: 8
+    subject: 8
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 62
+  fields:
+    _class: 8
+    subject: 11
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 63
+  fields:
+    _class: 8
+    subject: 13
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 64
+  fields:
+    _class: 8
+    subject: 3
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 65
+  fields:
+    _class: 9
+    subject: 18
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 66
+  fields:
+    _class: 9
+    subject: 7
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 67
+  fields:
+    _class: 9
+    subject: 11
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 68
+  fields:
+    _class: 9
+    subject: 6
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 69
+  fields:
+    _class: 9
+    subject: 3
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 70
+  fields:
+    _class: 9
+    subject: 5
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 71
+  fields:
+    _class: 9
+    subject: 16
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 72
+  fields:
+    _class: 9
+    subject: 2
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 73
+  fields:
+    _class: 10
+    subject: 2
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 74
+  fields:
+    _class: 10
+    subject: 16
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 75
+  fields:
+    _class: 10
+    subject: 13
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 76
+  fields:
+    _class: 10
+    subject: 4
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 77
+  fields:
+    _class: 10
+    subject: 5
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 78
+  fields:
+    _class: 10
+    subject: 3
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 79
+  fields:
+    _class: 10
+    subject: 7
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 80
+  fields:
+    _class: 10
+    subject: 12
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 81
+  fields:
+    _class: 11
+    subject: 18
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 82
+  fields:
+    _class: 11
+    subject: 5
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 83
+  fields:
+    _class: 11
+    subject: 10
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 84
+  fields:
+    _class: 11
+    subject: 12
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 85
+  fields:
+    _class: 11
+    subject: 16
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 86
+  fields:
+    _class: 11
+    subject: 15
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 87
+  fields:
+    _class: 11
+    subject: 4
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 88
+  fields:
+    _class: 11
+    subject: 8
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 89
+  fields:
+    _class: 12
+    subject: 14
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 90
+  fields:
+    _class: 12
+    subject: 2
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 91
+  fields:
+    _class: 12
+    subject: 15
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 92
+  fields:
+    _class: 12
+    subject: 18
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 93
+  fields:
+    _class: 12
+    subject: 16
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 94
+  fields:
+    _class: 12
+    subject: 10
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 95
+  fields:
+    _class: 12
+    subject: 7
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 96
+  fields:
+    _class: 12
+    subject: 5
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 97
+  fields:
+    _class: 13
+    subject: 3
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 98
+  fields:
+    _class: 13
+    subject: 15
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 99
+  fields:
+    _class: 13
+    subject: 14
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 100
+  fields:
+    _class: 13
+    subject: 5
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 101
+  fields:
+    _class: 13
+    subject: 12
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 102
+  fields:
+    _class: 13
+    subject: 6
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 103
+  fields:
+    _class: 13
+    subject: 2
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 104
+  fields:
+    _class: 13
+    subject: 13
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 105
+  fields:
+    _class: 14
+    subject: 6
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 106
+  fields:
+    _class: 14
+    subject: 15
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 107
+  fields:
+    _class: 14
+    subject: 14
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 108
+  fields:
+    _class: 14
+    subject: 3
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 109
+  fields:
+    _class: 14
+    subject: 18
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 110
+  fields:
+    _class: 14
+    subject: 7
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 111
+  fields:
+    _class: 14
+    subject: 9
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 112
+  fields:
+    _class: 14
+    subject: 8
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 113
+  fields:
+    _class: 15
+    subject: 16
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 114
+  fields:
+    _class: 15
+    subject: 12
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 115
+  fields:
+    _class: 15
+    subject: 9
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 116
+  fields:
+    _class: 15
+    subject: 2
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 117
+  fields:
+    _class: 15
+    subject: 5
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 118
+  fields:
+    _class: 15
+    subject: 4
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 119
+  fields:
+    _class: 15
+    subject: 6
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 120
+  fields:
+    _class: 15
+    subject: 8
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 121
+  fields:
+    _class: 16
+    subject: 8
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 122
+  fields:
+    _class: 16
+    subject: 5
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 123
+  fields:
+    _class: 16
+    subject: 10
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 124
+  fields:
+    _class: 16
+    subject: 13
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 125
+  fields:
+    _class: 16
+    subject: 17
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 126
+  fields:
+    _class: 16
+    subject: 3
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 127
+  fields:
+    _class: 16
+    subject: 15
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 128
+  fields:
+    _class: 16
+    subject: 6
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 129
+  fields:
+    _class: 17
+    subject: 13
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 130
+  fields:
+    _class: 17
+    subject: 9
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 131
+  fields:
+    _class: 17
+    subject: 17
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 132
+  fields:
+    _class: 17
+    subject: 18
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 133
+  fields:
+    _class: 17
+    subject: 11
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 134
+  fields:
+    _class: 17
+    subject: 15
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 135
+  fields:
+    _class: 17
+    subject: 6
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 136
+  fields:
+    _class: 17
+    subject: 3
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 137
+  fields:
+    _class: 18
+    subject: 12
+    day_of_week: 1
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 138
+  fields:
+    _class: 18
+    subject: 15
+    day_of_week: 1
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 139
+  fields:
+    _class: 18
+    subject: 6
+    day_of_week: 1
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 140
+  fields:
+    _class: 18
+    subject: 18
+    day_of_week: 1
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 141
+  fields:
+    _class: 18
+    subject: 11
+    day_of_week: 1
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 142
+  fields:
+    _class: 18
+    subject: 9
+    day_of_week: 1
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 143
+  fields:
+    _class: 18
+    subject: 5
+    day_of_week: 1
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 144
+  fields:
+    _class: 18
+    subject: 7
+    day_of_week: 1
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 1
+  fields:
+    _class: 1
+    subject: 13
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 2
+  fields:
+    _class: 1
+    subject: 6
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 3
+  fields:
+    _class: 1
+    subject: 10
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 4
+  fields:
+    _class: 1
+    subject: 8
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 5
+  fields:
+    _class: 1
+    subject: 4
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 6
+  fields:
+    _class: 1
+    subject: 15
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 7
+  fields:
+    _class: 1
+    subject: 16
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 8
+  fields:
+    _class: 1
+    subject: 17
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 9
+  fields:
+    _class: 2
+    subject: 8
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 10
+  fields:
+    _class: 2
+    subject: 18
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 11
+  fields:
+    _class: 2
+    subject: 7
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 12
+  fields:
+    _class: 2
+    subject: 13
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 13
+  fields:
+    _class: 2
+    subject: 10
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 14
+  fields:
+    _class: 2
+    subject: 17
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 15
+  fields:
+    _class: 2
+    subject: 6
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 16
+  fields:
+    _class: 2
+    subject: 11
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 17
+  fields:
+    _class: 3
+    subject: 9
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 18
+  fields:
+    _class: 3
+    subject: 13
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 19
+  fields:
+    _class: 3
+    subject: 7
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 20
+  fields:
+    _class: 3
+    subject: 14
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 21
+  fields:
+    _class: 3
+    subject: 2
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 22
+  fields:
+    _class: 3
+    subject: 16
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 23
+  fields:
+    _class: 3
+    subject: 15
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 24
+  fields:
+    _class: 3
+    subject: 17
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 25
+  fields:
+    _class: 4
+    subject: 10
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 26
+  fields:
+    _class: 4
+    subject: 7
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 27
+  fields:
+    _class: 4
+    subject: 13
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 28
+  fields:
+    _class: 4
+    subject: 14
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 29
+  fields:
+    _class: 4
+    subject: 2
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 30
+  fields:
+    _class: 4
+    subject: 5
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 31
+  fields:
+    _class: 4
+    subject: 1
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 32
+  fields:
+    _class: 4
+    subject: 8
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 33
+  fields:
+    _class: 5
+    subject: 11
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 34
+  fields:
+    _class: 5
+    subject: 5
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 35
+  fields:
+    _class: 5
+    subject: 4
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 36
+  fields:
+    _class: 5
+    subject: 17
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 37
+  fields:
+    _class: 5
+    subject: 7
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 38
+  fields:
+    _class: 5
+    subject: 3
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 39
+  fields:
+    _class: 5
+    subject: 8
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 40
+  fields:
+    _class: 5
+    subject: 2
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 41
+  fields:
+    _class: 6
+    subject: 14
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 42
+  fields:
+    _class: 6
+    subject: 13
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 43
+  fields:
+    _class: 6
+    subject: 8
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 44
+  fields:
+    _class: 6
+    subject: 12
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 45
+  fields:
+    _class: 6
+    subject: 10
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 46
+  fields:
+    _class: 6
+    subject: 2
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 47
+  fields:
+    _class: 6
+    subject: 6
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 48
+  fields:
+    _class: 6
+    subject: 3
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 49
+  fields:
+    _class: 7
+    subject: 17
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 50
+  fields:
+    _class: 7
+    subject: 3
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 51
+  fields:
+    _class: 7
+    subject: 12
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 52
+  fields:
+    _class: 7
+    subject: 2
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 53
+  fields:
+    _class: 7
+    subject: 10
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 54
+  fields:
+    _class: 7
+    subject: 14
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 55
+  fields:
+    _class: 7
+    subject: 16
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 56
+  fields:
+    _class: 7
+    subject: 13
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 57
+  fields:
+    _class: 8
+    subject: 13
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 58
+  fields:
+    _class: 8
+    subject: 6
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 59
+  fields:
+    _class: 8
+    subject: 18
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 60
+  fields:
+    _class: 8
+    subject: 14
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 61
+  fields:
+    _class: 8
+    subject: 11
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 62
+  fields:
+    _class: 8
+    subject: 15
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 63
+  fields:
+    _class: 8
+    subject: 9
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 64
+  fields:
+    _class: 8
+    subject: 2
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 65
+  fields:
+    _class: 9
+    subject: 9
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 66
+  fields:
+    _class: 9
+    subject: 13
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 67
+  fields:
+    _class: 9
+    subject: 7
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 68
+  fields:
+    _class: 9
+    subject: 3
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 69
+  fields:
+    _class: 9
+    subject: 16
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 70
+  fields:
+    _class: 9
+    subject: 18
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 71
+  fields:
+    _class: 9
+    subject: 11
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 72
+  fields:
+    _class: 9
+    subject: 12
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 73
+  fields:
+    _class: 10
+    subject: 13
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 74
+  fields:
+    _class: 10
+    subject: 12
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 75
+  fields:
+    _class: 10
+    subject: 7
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 76
+  fields:
+    _class: 10
+    subject: 16
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 77
+  fields:
+    _class: 10
+    subject: 4
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 78
+  fields:
+    _class: 10
+    subject: 1
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 79
+  fields:
+    _class: 10
+    subject: 14
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 80
+  fields:
+    _class: 10
+    subject: 10
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 81
+  fields:
+    _class: 11
+    subject: 8
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 82
+  fields:
+    _class: 11
+    subject: 11
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 83
+  fields:
+    _class: 11
+    subject: 14
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 84
+  fields:
+    _class: 11
+    subject: 6
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 85
+  fields:
+    _class: 11
+    subject: 12
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 86
+  fields:
+    _class: 11
+    subject: 3
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 87
+  fields:
+    _class: 11
+    subject: 4
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 88
+  fields:
+    _class: 11
+    subject: 13
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 89
+  fields:
+    _class: 12
+    subject: 14
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 90
+  fields:
+    _class: 12
+    subject: 17
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 91
+  fields:
+    _class: 12
+    subject: 1
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 92
+  fields:
+    _class: 12
+    subject: 8
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 93
+  fields:
+    _class: 12
+    subject: 11
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 94
+  fields:
+    _class: 12
+    subject: 13
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 95
+  fields:
+    _class: 12
+    subject: 12
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 96
+  fields:
+    _class: 12
+    subject: 2
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 97
+  fields:
+    _class: 13
+    subject: 6
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 98
+  fields:
+    _class: 13
+    subject: 2
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 99
+  fields:
+    _class: 13
+    subject: 18
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 100
+  fields:
+    _class: 13
+    subject: 3
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 101
+  fields:
+    _class: 13
+    subject: 9
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 102
+  fields:
+    _class: 13
+    subject: 11
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 103
+  fields:
+    _class: 13
+    subject: 5
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 104
+  fields:
+    _class: 13
+    subject: 16
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 105
+  fields:
+    _class: 14
+    subject: 12
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 106
+  fields:
+    _class: 14
+    subject: 15
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 107
+  fields:
+    _class: 14
+    subject: 8
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 108
+  fields:
+    _class: 14
+    subject: 7
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 109
+  fields:
+    _class: 14
+    subject: 4
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 110
+  fields:
+    _class: 14
+    subject: 16
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 111
+  fields:
+    _class: 14
+    subject: 3
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 112
+  fields:
+    _class: 14
+    subject: 10
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 113
+  fields:
+    _class: 15
+    subject: 17
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 114
+  fields:
+    _class: 15
+    subject: 7
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 115
+  fields:
+    _class: 15
+    subject: 2
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 116
+  fields:
+    _class: 15
+    subject: 9
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 117
+  fields:
+    _class: 15
+    subject: 6
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 118
+  fields:
+    _class: 15
+    subject: 11
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 119
+  fields:
+    _class: 15
+    subject: 4
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 120
+  fields:
+    _class: 15
+    subject: 14
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 121
+  fields:
+    _class: 16
+    subject: 13
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 122
+  fields:
+    _class: 16
+    subject: 15
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 123
+  fields:
+    _class: 16
+    subject: 12
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 124
+  fields:
+    _class: 16
+    subject: 16
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 125
+  fields:
+    _class: 16
+    subject: 7
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 126
+  fields:
+    _class: 16
+    subject: 3
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 127
+  fields:
+    _class: 16
+    subject: 4
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 128
+  fields:
+    _class: 16
+    subject: 8
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 129
+  fields:
+    _class: 17
+    subject: 13
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 130
+  fields:
+    _class: 17
+    subject: 3
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 131
+  fields:
+    _class: 17
+    subject: 4
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 132
+  fields:
+    _class: 17
+    subject: 11
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 133
+  fields:
+    _class: 17
+    subject: 18
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 134
+  fields:
+    _class: 17
+    subject: 6
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 135
+  fields:
+    _class: 17
+    subject: 14
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 136
+  fields:
+    _class: 17
+    subject: 1
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 137
+  fields:
+    _class: 18
+    subject: 8
+    day_of_week: 2
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 138
+  fields:
+    _class: 18
+    subject: 17
+    day_of_week: 2
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 139
+  fields:
+    _class: 18
+    subject: 12
+    day_of_week: 2
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 140
+  fields:
+    _class: 18
+    subject: 13
+    day_of_week: 2
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 141
+  fields:
+    _class: 18
+    subject: 9
+    day_of_week: 2
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 142
+  fields:
+    _class: 18
+    subject: 3
+    day_of_week: 2
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 143
+  fields:
+    _class: 18
+    subject: 16
+    day_of_week: 2
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 144
+  fields:
+    _class: 18
+    subject: 5
+    day_of_week: 2
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 1
+  fields:
+    _class: 1
+    subject: 13
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 2
+  fields:
+    _class: 1
+    subject: 4
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 3
+  fields:
+    _class: 1
+    subject: 12
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 4
+  fields:
+    _class: 1
+    subject: 5
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 5
+  fields:
+    _class: 1
+    subject: 3
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 6
+  fields:
+    _class: 1
+    subject: 10
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 7
+  fields:
+    _class: 1
+    subject: 16
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 8
+  fields:
+    _class: 1
+    subject: 11
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 9
+  fields:
+    _class: 2
+    subject: 1
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 10
+  fields:
+    _class: 2
+    subject: 7
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 11
+  fields:
+    _class: 2
+    subject: 6
+    day_of_week: 3
+    hour: "10:00:00"
 - model: schedules.Schedule
   pk: 12
   fields:
     _class: 2
     subject: 2
-    day_of_week: 1
-    hour: "13:00:00"
-
+    day_of_week: 3
+    hour: "11:00:00"
 - model: schedules.Schedule
   pk: 13
   fields:
-    _class: 1
-    subject: 1
-    day_of_week: 1
-    hour: "14:00:00"
-
+    _class: 2
+    subject: 4
+    day_of_week: 3
+    hour: "12:00:00"
 - model: schedules.Schedule
   pk: 14
   fields:
-    _class: 1
-    subject: 2
-    day_of_week: 1
-    hour: "15:00:00"
-
+    _class: 2
+    subject: 8
+    day_of_week: 3
+    hour: "13:00:00"
 - model: schedules.Schedule
   pk: 15
   fields:
     _class: 2
-    subject: 1
-    day_of_week: 2
-    hour: "09:00:00"
-
+    subject: 17
+    day_of_week: 3
+    hour: "14:00:00"
 - model: schedules.Schedule
   pk: 16
   fields:
     _class: 2
-    subject: 2
-    day_of_week: 2
-    hour: "10:00:00"
-
+    subject: 16
+    day_of_week: 3
+    hour: "15:00:00"
 - model: schedules.Schedule
   pk: 17
   fields:
-    _class: 1
-    subject: 1
-    day_of_week: 2
-    hour: "11:00:00"
-
+    _class: 3
+    subject: 2
+    day_of_week: 3
+    hour: "8:00:00"
 - model: schedules.Schedule
   pk: 18
   fields:
-    _class: 1
-    subject: 2
-    day_of_week: 2
-    hour: "12:00:00"
-
+    _class: 3
+    subject: 7
+    day_of_week: 3
+    hour: "9:00:00"
 - model: schedules.Schedule
   pk: 19
   fields:
-    _class: 2
-    subject: 1
-    day_of_week: 2
-    hour: "13:00:00"
-
+    _class: 3
+    subject: 13
+    day_of_week: 3
+    hour: "10:00:00"
 - model: schedules.Schedule
   pk: 20
   fields:
-    _class: 2
-    subject: 2
-    day_of_week: 2
-    hour: "14:00:00"
-
+    _class: 3
+    subject: 15
+    day_of_week: 3
+    hour: "11:00:00"
 - model: schedules.Schedule
   pk: 21
   fields:
-    _class: 1
-    subject: 1
-    day_of_week: 2
-    hour: "15:00:00"
-
+    _class: 3
+    subject: 10
+    day_of_week: 3
+    hour: "12:00:00"
 - model: schedules.Schedule
   pk: 22
   fields:
-    _class: 1
-    subject: 2
+    _class: 3
+    subject: 18
     day_of_week: 3
-    hour: "09:00:00"
-
+    hour: "13:00:00"
 - model: schedules.Schedule
   pk: 23
   fields:
-    _class: 2
-    subject: 1
+    _class: 3
+    subject: 17
     day_of_week: 3
-    hour: "10:00:00"
-
+    hour: "14:00:00"
 - model: schedules.Schedule
   pk: 24
   fields:
-    _class: 2
-    subject: 2
+    _class: 3
+    subject: 6
     day_of_week: 3
-    hour: "11:00:00"
-
+    hour: "15:00:00"
 - model: schedules.Schedule
   pk: 25
   fields:
-    _class: 1
-    subject: 1
+    _class: 4
+    subject: 17
     day_of_week: 3
-    hour: "12:00:00"
-
+    hour: "8:00:00"
 - model: schedules.Schedule
   pk: 26
   fields:
-    _class: 1
-    subject: 2
+    _class: 4
+    subject: 9
     day_of_week: 3
-    hour: "13:00:00"
-
+    hour: "9:00:00"
 - model: schedules.Schedule
   pk: 27
   fields:
-    _class: 2
-    subject: 1
+    _class: 4
+    subject: 16
     day_of_week: 3
-    hour: "14:00:00"
-
+    hour: "10:00:00"
 - model: schedules.Schedule
   pk: 28
   fields:
-    _class: 2
-    subject: 2
+    _class: 4
+    subject: 8
     day_of_week: 3
-    hour: "15:00:00"
-
+    hour: "11:00:00"
 - model: schedules.Schedule
   pk: 29
   fields:
-    _class: 1
+    _class: 4
     subject: 1
-    day_of_week: 4
-    hour: "09:00:00"
-
+    day_of_week: 3
+    hour: "12:00:00"
 - model: schedules.Schedule
   pk: 30
   fields:
-    _class: 1
-    subject: 2
-    day_of_week: 4
-    hour: "10:00:00"
-
+    _class: 4
+    subject: 12
+    day_of_week: 3
+    hour: "13:00:00"
 - model: schedules.Schedule
   pk: 31
   fields:
-    _class: 2
-    subject: 1
-    day_of_week: 4
-    hour: "11:00:00"
-
+    _class: 4
+    subject: 4
+    day_of_week: 3
+    hour: "14:00:00"
 - model: schedules.Schedule
   pk: 32
   fields:
-    _class: 2
-    subject: 2
-    day_of_week: 4
-    hour: "12:00:00"
-
+    _class: 4
+    subject: 10
+    day_of_week: 3
+    hour: "15:00:00"
 - model: schedules.Schedule
   pk: 33
   fields:
-    _class: 1
+    _class: 5
     subject: 1
-    day_of_week: 4
-    hour: "13:00:00"
-
+    day_of_week: 3
+    hour: "8:00:00"
 - model: schedules.Schedule
   pk: 34
   fields:
-    _class: 1
-    subject: 2
-    day_of_week: 4
-    hour: "14:00:00"
-
+    _class: 5
+    subject: 16
+    day_of_week: 3
+    hour: "9:00:00"
 - model: schedules.Schedule
   pk: 35
   fields:
-    _class: 2
-    subject: 1
-    day_of_week: 4
-    hour: "15:00:00"
-
+    _class: 5
+    subject: 7
+    day_of_week: 3
+    hour: "10:00:00"
 - model: schedules.Schedule
   pk: 36
   fields:
-    _class: 2
-    subject: 2
-    day_of_week: 5
-    hour: "09:00:00"
-
+    _class: 5
+    subject: 3
+    day_of_week: 3
+    hour: "11:00:00"
 - model: schedules.Schedule
   pk: 37
   fields:
-    _class: 1
-    subject: 1
-    day_of_week: 5
-    hour: "10:00:00"
-
+    _class: 5
+    subject: 12
+    day_of_week: 3
+    hour: "12:00:00"
 - model: schedules.Schedule
   pk: 38
+  fields:
+    _class: 5
+    subject: 4
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 39
+  fields:
+    _class: 5
+    subject: 8
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 40
+  fields:
+    _class: 5
+    subject: 17
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 41
+  fields:
+    _class: 6
+    subject: 18
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 42
+  fields:
+    _class: 6
+    subject: 5
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 43
+  fields:
+    _class: 6
+    subject: 1
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 44
+  fields:
+    _class: 6
+    subject: 3
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 45
+  fields:
+    _class: 6
+    subject: 9
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 46
+  fields:
+    _class: 6
+    subject: 2
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 47
+  fields:
+    _class: 6
+    subject: 14
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 48
+  fields:
+    _class: 6
+    subject: 10
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 49
+  fields:
+    _class: 7
+    subject: 7
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 50
+  fields:
+    _class: 7
+    subject: 13
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 51
+  fields:
+    _class: 7
+    subject: 3
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 52
+  fields:
+    _class: 7
+    subject: 14
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 53
+  fields:
+    _class: 7
+    subject: 12
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 54
+  fields:
+    _class: 7
+    subject: 10
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 55
+  fields:
+    _class: 7
+    subject: 6
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 56
+  fields:
+    _class: 7
+    subject: 8
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 57
+  fields:
+    _class: 8
+    subject: 6
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 58
+  fields:
+    _class: 8
+    subject: 4
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 59
+  fields:
+    _class: 8
+    subject: 3
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 60
+  fields:
+    _class: 8
+    subject: 1
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 61
+  fields:
+    _class: 8
+    subject: 11
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 62
+  fields:
+    _class: 8
+    subject: 13
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 63
+  fields:
+    _class: 8
+    subject: 15
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 64
+  fields:
+    _class: 8
+    subject: 17
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 65
+  fields:
+    _class: 9
+    subject: 3
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 66
+  fields:
+    _class: 9
+    subject: 6
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 67
+  fields:
+    _class: 9
+    subject: 18
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 68
+  fields:
+    _class: 9
+    subject: 15
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 69
+  fields:
+    _class: 9
+    subject: 1
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 70
+  fields:
+    _class: 9
+    subject: 10
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 71
+  fields:
+    _class: 9
+    subject: 9
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 72
+  fields:
+    _class: 9
+    subject: 12
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 73
+  fields:
+    _class: 10
+    subject: 6
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 74
+  fields:
+    _class: 10
+    subject: 16
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 75
+  fields:
+    _class: 10
+    subject: 8
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 76
+  fields:
+    _class: 10
+    subject: 10
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 77
+  fields:
+    _class: 10
+    subject: 11
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 78
+  fields:
+    _class: 10
+    subject: 9
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 79
+  fields:
+    _class: 10
+    subject: 5
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 80
+  fields:
+    _class: 10
+    subject: 3
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 81
+  fields:
+    _class: 11
+    subject: 16
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 82
+  fields:
+    _class: 11
+    subject: 8
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 83
+  fields:
+    _class: 11
+    subject: 15
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 84
+  fields:
+    _class: 11
+    subject: 1
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 85
+  fields:
+    _class: 11
+    subject: 6
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 86
+  fields:
+    _class: 11
+    subject: 14
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 87
+  fields:
+    _class: 11
+    subject: 10
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 88
+  fields:
+    _class: 11
+    subject: 7
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 89
+  fields:
+    _class: 12
+    subject: 14
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 90
+  fields:
+    _class: 12
+    subject: 18
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 91
+  fields:
+    _class: 12
+    subject: 15
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 92
+  fields:
+    _class: 12
+    subject: 5
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 93
+  fields:
+    _class: 12
+    subject: 16
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 94
+  fields:
+    _class: 12
+    subject: 8
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 95
+  fields:
+    _class: 12
+    subject: 13
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 96
+  fields:
+    _class: 12
+    subject: 12
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 97
+  fields:
+    _class: 13
+    subject: 9
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 98
+  fields:
+    _class: 13
+    subject: 1
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 99
+  fields:
+    _class: 13
+    subject: 13
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 100
+  fields:
+    _class: 13
+    subject: 17
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 101
+  fields:
+    _class: 13
+    subject: 8
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 102
+  fields:
+    _class: 13
+    subject: 10
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 103
+  fields:
+    _class: 13
+    subject: 5
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 104
+  fields:
+    _class: 13
+    subject: 11
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 105
+  fields:
+    _class: 14
+    subject: 17
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 106
+  fields:
+    _class: 14
+    subject: 3
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 107
+  fields:
+    _class: 14
+    subject: 6
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 108
+  fields:
+    _class: 14
+    subject: 13
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 109
+  fields:
+    _class: 14
+    subject: 5
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 110
+  fields:
+    _class: 14
+    subject: 7
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 111
+  fields:
+    _class: 14
+    subject: 1
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 112
+  fields:
+    _class: 14
+    subject: 8
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 113
+  fields:
+    _class: 15
+    subject: 17
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 114
+  fields:
+    _class: 15
+    subject: 18
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 115
+  fields:
+    _class: 15
+    subject: 13
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 116
+  fields:
+    _class: 15
+    subject: 16
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 117
+  fields:
+    _class: 15
+    subject: 4
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 118
+  fields:
+    _class: 15
+    subject: 9
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 119
+  fields:
+    _class: 15
+    subject: 7
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 120
+  fields:
+    _class: 15
+    subject: 1
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 121
+  fields:
+    _class: 16
+    subject: 12
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 122
+  fields:
+    _class: 16
+    subject: 4
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 123
+  fields:
+    _class: 16
+    subject: 3
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 124
+  fields:
+    _class: 16
+    subject: 13
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 125
+  fields:
+    _class: 16
+    subject: 5
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 126
+  fields:
+    _class: 16
+    subject: 15
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 127
+  fields:
+    _class: 16
+    subject: 2
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 128
+  fields:
+    _class: 16
+    subject: 11
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 129
+  fields:
+    _class: 17
+    subject: 9
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 130
+  fields:
+    _class: 17
+    subject: 8
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 131
+  fields:
+    _class: 17
+    subject: 17
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 132
+  fields:
+    _class: 17
+    subject: 3
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 133
+  fields:
+    _class: 17
+    subject: 12
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 134
+  fields:
+    _class: 17
+    subject: 5
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 135
+  fields:
+    _class: 17
+    subject: 7
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 136
+  fields:
+    _class: 17
+    subject: 16
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 137
+  fields:
+    _class: 18
+    subject: 5
+    day_of_week: 3
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 138
+  fields:
+    _class: 18
+    subject: 15
+    day_of_week: 3
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 139
+  fields:
+    _class: 18
+    subject: 3
+    day_of_week: 3
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 140
+  fields:
+    _class: 18
+    subject: 6
+    day_of_week: 3
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 141
+  fields:
+    _class: 18
+    subject: 7
+    day_of_week: 3
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 142
+  fields:
+    _class: 18
+    subject: 10
+    day_of_week: 3
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 143
+  fields:
+    _class: 18
+    subject: 2
+    day_of_week: 3
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 144
+  fields:
+    _class: 18
+    subject: 11
+    day_of_week: 3
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 1
+  fields:
+    _class: 1
+    subject: 8
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 2
+  fields:
+    _class: 1
+    subject: 7
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 3
+  fields:
+    _class: 1
+    subject: 18
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 4
+  fields:
+    _class: 1
+    subject: 17
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 5
+  fields:
+    _class: 1
+    subject: 2
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 6
+  fields:
+    _class: 1
+    subject: 5
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 7
+  fields:
+    _class: 1
+    subject: 15
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 8
+  fields:
+    _class: 1
+    subject: 4
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 9
+  fields:
+    _class: 2
+    subject: 7
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 10
+  fields:
+    _class: 2
+    subject: 14
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 11
+  fields:
+    _class: 2
+    subject: 8
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 12
+  fields:
+    _class: 2
+    subject: 15
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 13
+  fields:
+    _class: 2
+    subject: 10
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 14
+  fields:
+    _class: 2
+    subject: 1
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 15
+  fields:
+    _class: 2
+    subject: 5
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 16
+  fields:
+    _class: 2
+    subject: 12
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 17
+  fields:
+    _class: 3
+    subject: 14
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 18
+  fields:
+    _class: 3
+    subject: 9
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 19
+  fields:
+    _class: 3
+    subject: 2
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 20
+  fields:
+    _class: 3
+    subject: 13
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 21
+  fields:
+    _class: 3
+    subject: 18
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 22
+  fields:
+    _class: 3
+    subject: 16
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 23
+  fields:
+    _class: 3
+    subject: 5
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 24
+  fields:
+    _class: 3
+    subject: 3
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 25
+  fields:
+    _class: 4
+    subject: 14
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 26
+  fields:
+    _class: 4
+    subject: 16
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 27
+  fields:
+    _class: 4
+    subject: 4
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 28
+  fields:
+    _class: 4
+    subject: 2
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 29
+  fields:
+    _class: 4
+    subject: 15
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 30
+  fields:
+    _class: 4
+    subject: 5
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 31
+  fields:
+    _class: 4
+    subject: 7
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 32
+  fields:
+    _class: 4
+    subject: 17
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 33
+  fields:
+    _class: 5
+    subject: 9
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 34
+  fields:
+    _class: 5
+    subject: 4
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 35
+  fields:
+    _class: 5
+    subject: 6
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 36
+  fields:
+    _class: 5
+    subject: 8
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 37
+  fields:
+    _class: 5
+    subject: 15
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 38
+  fields:
+    _class: 5
+    subject: 3
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 39
+  fields:
+    _class: 5
+    subject: 5
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 40
+  fields:
+    _class: 5
+    subject: 1
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 41
+  fields:
+    _class: 6
+    subject: 2
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 42
+  fields:
+    _class: 6
+    subject: 9
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 43
+  fields:
+    _class: 6
+    subject: 10
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 44
+  fields:
+    _class: 6
+    subject: 16
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 45
+  fields:
+    _class: 6
+    subject: 5
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 46
+  fields:
+    _class: 6
+    subject: 3
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 47
+  fields:
+    _class: 6
+    subject: 11
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 48
+  fields:
+    _class: 6
+    subject: 7
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 49
+  fields:
+    _class: 7
+    subject: 13
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 50
+  fields:
+    _class: 7
+    subject: 18
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 51
+  fields:
+    _class: 7
+    subject: 8
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 52
+  fields:
+    _class: 7
+    subject: 3
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 53
+  fields:
+    _class: 7
+    subject: 6
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 54
+  fields:
+    _class: 7
+    subject: 4
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 55
+  fields:
+    _class: 7
+    subject: 5
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 56
+  fields:
+    _class: 7
+    subject: 16
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 57
+  fields:
+    _class: 8
+    subject: 1
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 58
+  fields:
+    _class: 8
+    subject: 12
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 59
+  fields:
+    _class: 8
+    subject: 9
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 60
+  fields:
+    _class: 8
+    subject: 15
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 61
+  fields:
+    _class: 8
+    subject: 18
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 62
+  fields:
+    _class: 8
+    subject: 3
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 63
+  fields:
+    _class: 8
+    subject: 10
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 64
+  fields:
+    _class: 8
+    subject: 7
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 65
+  fields:
+    _class: 9
+    subject: 12
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 66
+  fields:
+    _class: 9
+    subject: 11
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 67
+  fields:
+    _class: 9
+    subject: 5
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 68
+  fields:
+    _class: 9
+    subject: 8
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 69
+  fields:
+    _class: 9
+    subject: 18
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 70
+  fields:
+    _class: 9
+    subject: 9
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 71
+  fields:
+    _class: 9
+    subject: 6
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 72
+  fields:
+    _class: 9
+    subject: 13
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 73
+  fields:
+    _class: 10
+    subject: 8
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 74
+  fields:
+    _class: 10
+    subject: 2
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 75
+  fields:
+    _class: 10
+    subject: 12
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 76
+  fields:
+    _class: 10
+    subject: 3
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 77
+  fields:
+    _class: 10
+    subject: 17
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 78
+  fields:
+    _class: 10
+    subject: 4
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 79
+  fields:
+    _class: 10
+    subject: 9
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 80
+  fields:
+    _class: 10
+    subject: 7
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 81
+  fields:
+    _class: 11
+    subject: 16
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 82
+  fields:
+    _class: 11
+    subject: 17
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 83
+  fields:
+    _class: 11
+    subject: 6
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 84
+  fields:
+    _class: 11
+    subject: 14
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 85
+  fields:
+    _class: 11
+    subject: 1
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 86
+  fields:
+    _class: 11
+    subject: 15
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 87
+  fields:
+    _class: 11
+    subject: 5
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 88
+  fields:
+    _class: 11
+    subject: 9
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 89
+  fields:
+    _class: 12
+    subject: 16
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 90
+  fields:
+    _class: 12
+    subject: 18
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 91
+  fields:
+    _class: 12
+    subject: 1
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 92
+  fields:
+    _class: 12
+    subject: 13
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 93
+  fields:
+    _class: 12
+    subject: 2
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 94
+  fields:
+    _class: 12
+    subject: 8
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 95
+  fields:
+    _class: 12
+    subject: 4
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 96
+  fields:
+    _class: 12
+    subject: 3
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 97
+  fields:
+    _class: 13
+    subject: 17
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 98
+  fields:
+    _class: 13
+    subject: 10
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 99
+  fields:
+    _class: 13
+    subject: 18
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 100
+  fields:
+    _class: 13
+    subject: 12
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 101
+  fields:
+    _class: 13
+    subject: 2
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 102
+  fields:
+    _class: 13
+    subject: 5
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 103
+  fields:
+    _class: 13
+    subject: 13
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 104
+  fields:
+    _class: 13
+    subject: 7
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 105
+  fields:
+    _class: 14
+    subject: 14
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 106
+  fields:
+    _class: 14
+    subject: 15
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 107
+  fields:
+    _class: 14
+    subject: 1
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 108
+  fields:
+    _class: 14
+    subject: 4
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 109
+  fields:
+    _class: 14
+    subject: 6
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 110
+  fields:
+    _class: 14
+    subject: 17
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 111
+  fields:
+    _class: 14
+    subject: 2
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 112
+  fields:
+    _class: 14
+    subject: 12
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 113
+  fields:
+    _class: 15
+    subject: 13
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 114
+  fields:
+    _class: 15
+    subject: 8
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 115
+  fields:
+    _class: 15
+    subject: 14
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 116
+  fields:
+    _class: 15
+    subject: 1
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 117
+  fields:
+    _class: 15
+    subject: 18
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 118
+  fields:
+    _class: 15
+    subject: 2
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 119
+  fields:
+    _class: 15
+    subject: 15
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 120
+  fields:
+    _class: 15
+    subject: 9
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 121
+  fields:
+    _class: 16
+    subject: 11
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 122
+  fields:
+    _class: 16
+    subject: 5
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 123
+  fields:
+    _class: 16
+    subject: 2
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 124
+  fields:
+    _class: 16
+    subject: 13
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 125
+  fields:
+    _class: 16
+    subject: 6
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 126
+  fields:
+    _class: 16
+    subject: 4
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 127
+  fields:
+    _class: 16
+    subject: 3
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 128
+  fields:
+    _class: 16
+    subject: 9
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 129
+  fields:
+    _class: 17
+    subject: 14
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 130
+  fields:
+    _class: 17
+    subject: 13
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 131
+  fields:
+    _class: 17
+    subject: 16
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 132
+  fields:
+    _class: 17
+    subject: 17
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 133
+  fields:
+    _class: 17
+    subject: 6
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 134
+  fields:
+    _class: 17
+    subject: 9
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 135
+  fields:
+    _class: 17
+    subject: 2
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 136
+  fields:
+    _class: 17
+    subject: 1
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 137
+  fields:
+    _class: 18
+    subject: 6
+    day_of_week: 4
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 138
+  fields:
+    _class: 18
+    subject: 4
+    day_of_week: 4
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 139
+  fields:
+    _class: 18
+    subject: 8
+    day_of_week: 4
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 140
+  fields:
+    _class: 18
+    subject: 3
+    day_of_week: 4
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 141
+  fields:
+    _class: 18
+    subject: 13
+    day_of_week: 4
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 142
+  fields:
+    _class: 18
+    subject: 1
+    day_of_week: 4
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 143
+  fields:
+    _class: 18
+    subject: 14
+    day_of_week: 4
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 144
+  fields:
+    _class: 18
+    subject: 11
+    day_of_week: 4
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 1
+  fields:
+    _class: 1
+    subject: 4
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 2
+  fields:
+    _class: 1
+    subject: 15
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 3
+  fields:
+    _class: 1
+    subject: 5
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 4
   fields:
     _class: 1
     subject: 2
     day_of_week: 5
     hour: "11:00:00"
-
+- model: schedules.Schedule
+  pk: 5
+  fields:
+    _class: 1
+    subject: 12
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 6
+  fields:
+    _class: 1
+    subject: 13
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 7
+  fields:
+    _class: 1
+    subject: 6
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 8
+  fields:
+    _class: 1
+    subject: 10
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 9
+  fields:
+    _class: 2
+    subject: 8
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 10
+  fields:
+    _class: 2
+    subject: 17
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 11
+  fields:
+    _class: 2
+    subject: 10
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 12
+  fields:
+    _class: 2
+    subject: 6
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 13
+  fields:
+    _class: 2
+    subject: 4
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 14
+  fields:
+    _class: 2
+    subject: 1
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 15
+  fields:
+    _class: 2
+    subject: 9
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 16
+  fields:
+    _class: 2
+    subject: 11
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 17
+  fields:
+    _class: 3
+    subject: 3
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 18
+  fields:
+    _class: 3
+    subject: 4
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 19
+  fields:
+    _class: 3
+    subject: 13
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 20
+  fields:
+    _class: 3
+    subject: 2
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 21
+  fields:
+    _class: 3
+    subject: 8
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 22
+  fields:
+    _class: 3
+    subject: 17
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 23
+  fields:
+    _class: 3
+    subject: 5
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 24
+  fields:
+    _class: 3
+    subject: 6
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 25
+  fields:
+    _class: 4
+    subject: 3
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 26
+  fields:
+    _class: 4
+    subject: 17
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 27
+  fields:
+    _class: 4
+    subject: 1
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 28
+  fields:
+    _class: 4
+    subject: 14
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 29
+  fields:
+    _class: 4
+    subject: 5
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 30
+  fields:
+    _class: 4
+    subject: 4
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 31
+  fields:
+    _class: 4
+    subject: 8
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 32
+  fields:
+    _class: 4
+    subject: 2
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 33
+  fields:
+    _class: 5
+    subject: 13
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 34
+  fields:
+    _class: 5
+    subject: 15
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 35
+  fields:
+    _class: 5
+    subject: 9
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 36
+  fields:
+    _class: 5
+    subject: 2
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 37
+  fields:
+    _class: 5
+    subject: 17
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 38
+  fields:
+    _class: 5
+    subject: 14
+    day_of_week: 5
+    hour: "13:00:00"
 - model: schedules.Schedule
   pk: 39
   fields:
-    _class: 2
-    subject: 1
+    _class: 5
+    subject: 10
     day_of_week: 5
-    hour: "12:00:00"
-
+    hour: "14:00:00"
 - model: schedules.Schedule
   pk: 40
   fields:
-    _class: 2
-    subject: 2
+    _class: 5
+    subject: 8
     day_of_week: 5
-    hour: "13:00:00"
-
+    hour: "15:00:00"
 - model: schedules.Schedule
   pk: 41
   fields:
-    _class: 1
-    subject: 1
+    _class: 6
+    subject: 10
     day_of_week: 5
-    hour: "14:00:00"
-
+    hour: "8:00:00"
 - model: schedules.Schedule
   pk: 42
   fields:
-    _class: 1
+    _class: 6
+    subject: 11
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 43
+  fields:
+    _class: 6
+    subject: 14
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 44
+  fields:
+    _class: 6
+    subject: 17
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 45
+  fields:
+    _class: 6
+    subject: 3
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 46
+  fields:
+    _class: 6
+    subject: 4
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 47
+  fields:
+    _class: 6
+    subject: 12
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 48
+  fields:
+    _class: 6
+    subject: 13
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 49
+  fields:
+    _class: 7
+    subject: 8
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 50
+  fields:
+    _class: 7
+    subject: 3
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 51
+  fields:
+    _class: 7
+    subject: 6
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 52
+  fields:
+    _class: 7
+    subject: 10
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 53
+  fields:
+    _class: 7
+    subject: 12
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 54
+  fields:
+    _class: 7
+    subject: 17
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 55
+  fields:
+    _class: 7
+    subject: 9
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 56
+  fields:
+    _class: 7
+    subject: 18
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 57
+  fields:
+    _class: 8
+    subject: 17
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 58
+  fields:
+    _class: 8
+    subject: 15
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 59
+  fields:
+    _class: 8
+    subject: 14
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 60
+  fields:
+    _class: 8
+    subject: 11
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 61
+  fields:
+    _class: 8
+    subject: 13
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 62
+  fields:
+    _class: 8
+    subject: 6
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 63
+  fields:
+    _class: 8
+    subject: 9
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 64
+  fields:
+    _class: 8
     subject: 2
     day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 65
+  fields:
+    _class: 9
+    subject: 3
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 66
+  fields:
+    _class: 9
+    subject: 7
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 67
+  fields:
+    _class: 9
+    subject: 16
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 68
+  fields:
+    _class: 9
+    subject: 9
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 69
+  fields:
+    _class: 9
+    subject: 1
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 70
+  fields:
+    _class: 9
+    subject: 5
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 71
+  fields:
+    _class: 9
+    subject: 6
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 72
+  fields:
+    _class: 9
+    subject: 4
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 73
+  fields:
+    _class: 10
+    subject: 10
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 74
+  fields:
+    _class: 10
+    subject: 6
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 75
+  fields:
+    _class: 10
+    subject: 9
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 76
+  fields:
+    _class: 10
+    subject: 15
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 77
+  fields:
+    _class: 10
+    subject: 1
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 78
+  fields:
+    _class: 10
+    subject: 11
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 79
+  fields:
+    _class: 10
+    subject: 3
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 80
+  fields:
+    _class: 10
+    subject: 17
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 81
+  fields:
+    _class: 11
+    subject: 15
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 82
+  fields:
+    _class: 11
+    subject: 17
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 83
+  fields:
+    _class: 11
+    subject: 12
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 84
+  fields:
+    _class: 11
+    subject: 2
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 85
+  fields:
+    _class: 11
+    subject: 18
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 86
+  fields:
+    _class: 11
+    subject: 11
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 87
+  fields:
+    _class: 11
+    subject: 1
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 88
+  fields:
+    _class: 11
+    subject: 8
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 89
+  fields:
+    _class: 12
+    subject: 18
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 90
+  fields:
+    _class: 12
+    subject: 10
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 91
+  fields:
+    _class: 12
+    subject: 2
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 92
+  fields:
+    _class: 12
+    subject: 9
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 93
+  fields:
+    _class: 12
+    subject: 17
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 94
+  fields:
+    _class: 12
+    subject: 4
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 95
+  fields:
+    _class: 12
+    subject: 12
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 96
+  fields:
+    _class: 12
+    subject: 14
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 97
+  fields:
+    _class: 13
+    subject: 2
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 98
+  fields:
+    _class: 13
+    subject: 11
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 99
+  fields:
+    _class: 13
+    subject: 17
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 100
+  fields:
+    _class: 13
+    subject: 1
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 101
+  fields:
+    _class: 13
+    subject: 14
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 102
+  fields:
+    _class: 13
+    subject: 8
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 103
+  fields:
+    _class: 13
+    subject: 15
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 104
+  fields:
+    _class: 13
+    subject: 18
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 105
+  fields:
+    _class: 14
+    subject: 6
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 106
+  fields:
+    _class: 14
+    subject: 18
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 107
+  fields:
+    _class: 14
+    subject: 10
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 108
+  fields:
+    _class: 14
+    subject: 16
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 109
+  fields:
+    _class: 14
+    subject: 9
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 110
+  fields:
+    _class: 14
+    subject: 5
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 111
+  fields:
+    _class: 14
+    subject: 17
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 112
+  fields:
+    _class: 14
+    subject: 8
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 113
+  fields:
+    _class: 15
+    subject: 13
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 114
+  fields:
+    _class: 15
+    subject: 9
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 115
+  fields:
+    _class: 15
+    subject: 5
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 116
+  fields:
+    _class: 15
+    subject: 7
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 117
+  fields:
+    _class: 15
+    subject: 11
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 118
+  fields:
+    _class: 15
+    subject: 14
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 119
+  fields:
+    _class: 15
+    subject: 10
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 120
+  fields:
+    _class: 15
+    subject: 6
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 121
+  fields:
+    _class: 16
+    subject: 1
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 122
+  fields:
+    _class: 16
+    subject: 12
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 123
+  fields:
+    _class: 16
+    subject: 15
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 124
+  fields:
+    _class: 16
+    subject: 2
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 125
+  fields:
+    _class: 16
+    subject: 4
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 126
+  fields:
+    _class: 16
+    subject: 18
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 127
+  fields:
+    _class: 16
+    subject: 13
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 128
+  fields:
+    _class: 16
+    subject: 9
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 129
+  fields:
+    _class: 17
+    subject: 12
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 130
+  fields:
+    _class: 17
+    subject: 2
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 131
+  fields:
+    _class: 17
+    subject: 13
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 132
+  fields:
+    _class: 17
+    subject: 6
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 133
+  fields:
+    _class: 17
+    subject: 10
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 134
+  fields:
+    _class: 17
+    subject: 7
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 135
+  fields:
+    _class: 17
+    subject: 16
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 136
+  fields:
+    _class: 17
+    subject: 3
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 137
+  fields:
+    _class: 18
+    subject: 15
+    day_of_week: 5
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 138
+  fields:
+    _class: 18
+    subject: 11
+    day_of_week: 5
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 139
+  fields:
+    _class: 18
+    subject: 13
+    day_of_week: 5
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 140
+  fields:
+    _class: 18
+    subject: 12
+    day_of_week: 5
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 141
+  fields:
+    _class: 18
+    subject: 2
+    day_of_week: 5
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 142
+  fields:
+    _class: 18
+    subject: 18
+    day_of_week: 5
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 143
+  fields:
+    _class: 18
+    subject: 6
+    day_of_week: 5
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 144
+  fields:
+    _class: 18
+    subject: 16
+    day_of_week: 5
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 1
+  fields:
+    _class: 1
+    subject: 7
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 2
+  fields:
+    _class: 1
+    subject: 11
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 3
+  fields:
+    _class: 1
+    subject: 14
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 4
+  fields:
+    _class: 1
+    subject: 5
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 5
+  fields:
+    _class: 1
+    subject: 6
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 6
+  fields:
+    _class: 1
+    subject: 10
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 7
+  fields:
+    _class: 1
+    subject: 12
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 8
+  fields:
+    _class: 1
+    subject: 18
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 9
+  fields:
+    _class: 2
+    subject: 15
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 10
+  fields:
+    _class: 2
+    subject: 8
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 11
+  fields:
+    _class: 2
+    subject: 5
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 12
+  fields:
+    _class: 2
+    subject: 18
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 13
+  fields:
+    _class: 2
+    subject: 2
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 14
+  fields:
+    _class: 2
+    subject: 16
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 15
+  fields:
+    _class: 2
+    subject: 6
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 16
+  fields:
+    _class: 2
+    subject: 12
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 17
+  fields:
+    _class: 3
+    subject: 6
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 18
+  fields:
+    _class: 3
+    subject: 4
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 19
+  fields:
+    _class: 3
+    subject: 7
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 20
+  fields:
+    _class: 3
+    subject: 1
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 21
+  fields:
+    _class: 3
+    subject: 8
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 22
+  fields:
+    _class: 3
+    subject: 12
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 23
+  fields:
+    _class: 3
+    subject: 14
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 24
+  fields:
+    _class: 3
+    subject: 18
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 25
+  fields:
+    _class: 4
+    subject: 13
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 26
+  fields:
+    _class: 4
+    subject: 10
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 27
+  fields:
+    _class: 4
+    subject: 4
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 28
+  fields:
+    _class: 4
+    subject: 7
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 29
+  fields:
+    _class: 4
+    subject: 17
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 30
+  fields:
+    _class: 4
+    subject: 6
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 31
+  fields:
+    _class: 4
+    subject: 15
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 32
+  fields:
+    _class: 4
+    subject: 12
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 33
+  fields:
+    _class: 5
+    subject: 7
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 34
+  fields:
+    _class: 5
+    subject: 2
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 35
+  fields:
+    _class: 5
+    subject: 6
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 36
+  fields:
+    _class: 5
+    subject: 1
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 37
+  fields:
+    _class: 5
+    subject: 15
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 38
+  fields:
+    _class: 5
+    subject: 18
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 39
+  fields:
+    _class: 5
+    subject: 12
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 40
+  fields:
+    _class: 5
+    subject: 3
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 41
+  fields:
+    _class: 6
+    subject: 3
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 42
+  fields:
+    _class: 6
+    subject: 14
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 43
+  fields:
+    _class: 6
+    subject: 6
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 44
+  fields:
+    _class: 6
+    subject: 12
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 45
+  fields:
+    _class: 6
+    subject: 8
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 46
+  fields:
+    _class: 6
+    subject: 15
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 47
+  fields:
+    _class: 6
+    subject: 17
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 48
+  fields:
+    _class: 6
+    subject: 18
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 49
+  fields:
+    _class: 7
+    subject: 9
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 50
+  fields:
+    _class: 7
+    subject: 15
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 51
+  fields:
+    _class: 7
+    subject: 6
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 52
+  fields:
+    _class: 7
+    subject: 11
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 53
+  fields:
+    _class: 7
+    subject: 5
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 54
+  fields:
+    _class: 7
+    subject: 16
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 55
+  fields:
+    _class: 7
+    subject: 4
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 56
+  fields:
+    _class: 7
+    subject: 18
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 57
+  fields:
+    _class: 8
+    subject: 11
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 58
+  fields:
+    _class: 8
+    subject: 8
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 59
+  fields:
+    _class: 8
+    subject: 14
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 60
+  fields:
+    _class: 8
+    subject: 9
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 61
+  fields:
+    _class: 8
+    subject: 16
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 62
+  fields:
+    _class: 8
+    subject: 13
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 63
+  fields:
+    _class: 8
+    subject: 6
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 64
+  fields:
+    _class: 8
+    subject: 15
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 65
+  fields:
+    _class: 9
+    subject: 15
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 66
+  fields:
+    _class: 9
+    subject: 7
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 67
+  fields:
+    _class: 9
+    subject: 16
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 68
+  fields:
+    _class: 9
+    subject: 6
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 69
+  fields:
+    _class: 9
+    subject: 2
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 70
+  fields:
+    _class: 9
+    subject: 17
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 71
+  fields:
+    _class: 9
+    subject: 8
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 72
+  fields:
+    _class: 9
+    subject: 3
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 73
+  fields:
+    _class: 10
+    subject: 17
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 74
+  fields:
+    _class: 10
+    subject: 4
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 75
+  fields:
+    _class: 10
+    subject: 7
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 76
+  fields:
+    _class: 10
+    subject: 5
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 77
+  fields:
+    _class: 10
+    subject: 3
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 78
+  fields:
+    _class: 10
+    subject: 1
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 79
+  fields:
+    _class: 10
+    subject: 18
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 80
+  fields:
+    _class: 10
+    subject: 8
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 81
+  fields:
+    _class: 11
+    subject: 4
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 82
+  fields:
+    _class: 11
+    subject: 7
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 83
+  fields:
+    _class: 11
+    subject: 3
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 84
+  fields:
+    _class: 11
+    subject: 12
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 85
+  fields:
+    _class: 11
+    subject: 13
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 86
+  fields:
+    _class: 11
+    subject: 10
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 87
+  fields:
+    _class: 11
+    subject: 15
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 88
+  fields:
+    _class: 11
+    subject: 16
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 89
+  fields:
+    _class: 12
+    subject: 6
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 90
+  fields:
+    _class: 12
+    subject: 8
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 91
+  fields:
+    _class: 12
+    subject: 7
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 92
+  fields:
+    _class: 12
+    subject: 15
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 93
+  fields:
+    _class: 12
+    subject: 4
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 94
+  fields:
+    _class: 12
+    subject: 16
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 95
+  fields:
+    _class: 12
+    subject: 2
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 96
+  fields:
+    _class: 12
+    subject: 13
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 97
+  fields:
+    _class: 13
+    subject: 9
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 98
+  fields:
+    _class: 13
+    subject: 8
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 99
+  fields:
+    _class: 13
+    subject: 1
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 100
+  fields:
+    _class: 13
+    subject: 7
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 101
+  fields:
+    _class: 13
+    subject: 18
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 102
+  fields:
+    _class: 13
+    subject: 12
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 103
+  fields:
+    _class: 13
+    subject: 11
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 104
+  fields:
+    _class: 13
+    subject: 5
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 105
+  fields:
+    _class: 14
+    subject: 4
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 106
+  fields:
+    _class: 14
+    subject: 3
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 107
+  fields:
+    _class: 14
+    subject: 7
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 108
+  fields:
+    _class: 14
+    subject: 16
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 109
+  fields:
+    _class: 14
+    subject: 12
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 110
+  fields:
+    _class: 14
+    subject: 17
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 111
+  fields:
+    _class: 14
+    subject: 6
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 112
+  fields:
+    _class: 14
+    subject: 9
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 113
+  fields:
+    _class: 15
+    subject: 1
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 114
+  fields:
+    _class: 15
+    subject: 4
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 115
+  fields:
+    _class: 15
+    subject: 18
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 116
+  fields:
+    _class: 15
+    subject: 12
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 117
+  fields:
+    _class: 15
+    subject: 16
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 118
+  fields:
+    _class: 15
+    subject: 3
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 119
+  fields:
+    _class: 15
+    subject: 5
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 120
+  fields:
+    _class: 15
+    subject: 13
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 121
+  fields:
+    _class: 16
+    subject: 16
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 122
+  fields:
+    _class: 16
+    subject: 9
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 123
+  fields:
+    _class: 16
+    subject: 6
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 124
+  fields:
+    _class: 16
+    subject: 11
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 125
+  fields:
+    _class: 16
+    subject: 17
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 126
+  fields:
+    _class: 16
+    subject: 7
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 127
+  fields:
+    _class: 16
+    subject: 8
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 128
+  fields:
+    _class: 16
+    subject: 5
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 129
+  fields:
+    _class: 17
+    subject: 16
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 130
+  fields:
+    _class: 17
+    subject: 12
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 131
+  fields:
+    _class: 17
+    subject: 7
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 132
+  fields:
+    _class: 17
+    subject: 8
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 133
+  fields:
+    _class: 17
+    subject: 10
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 134
+  fields:
+    _class: 17
+    subject: 17
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 135
+  fields:
+    _class: 17
+    subject: 4
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 136
+  fields:
+    _class: 17
+    subject: 9
+    day_of_week: 6
+    hour: "15:00:00"
+- model: schedules.Schedule
+  pk: 137
+  fields:
+    _class: 18
+    subject: 7
+    day_of_week: 6
+    hour: "8:00:00"
+- model: schedules.Schedule
+  pk: 138
+  fields:
+    _class: 18
+    subject: 13
+    day_of_week: 6
+    hour: "9:00:00"
+- model: schedules.Schedule
+  pk: 139
+  fields:
+    _class: 18
+    subject: 14
+    day_of_week: 6
+    hour: "10:00:00"
+- model: schedules.Schedule
+  pk: 140
+  fields:
+    _class: 18
+    subject: 11
+    day_of_week: 6
+    hour: "11:00:00"
+- model: schedules.Schedule
+  pk: 141
+  fields:
+    _class: 18
+    subject: 18
+    day_of_week: 6
+    hour: "12:00:00"
+- model: schedules.Schedule
+  pk: 142
+  fields:
+    _class: 18
+    subject: 17
+    day_of_week: 6
+    hour: "13:00:00"
+- model: schedules.Schedule
+  pk: 143
+  fields:
+    _class: 18
+    subject: 1
+    day_of_week: 6
+    hour: "14:00:00"
+- model: schedules.Schedule
+  pk: 144
+  fields:
+    _class: 18
+    subject: 6
+    day_of_week: 6
     hour: "15:00:00"

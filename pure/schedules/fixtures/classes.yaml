@@ -1,9 +1,72 @@
 - model: schedules.Class
   pk: 1
   fields:
-    name: "5A"
-
+    name: "1A"
 - model: schedules.Class
   pk: 2
   fields:
+    name: "1B"
+- model: schedules.Class
+  pk: 3
+  fields:
+    name: "1C"
+- model: schedules.Class
+  pk: 4
+  fields:
+    name: "2A"
+- model: schedules.Class
+  pk: 5
+  fields:
+    name: "2B"
+- model: schedules.Class
+  pk: 6
+  fields:
+    name: "2C"
+- model: schedules.Class
+  pk: 7
+  fields:
+    name: "3A"
+- model: schedules.Class
+  pk: 8
+  fields:
+    name: "3B"
+- model: schedules.Class
+  pk: 9
+  fields:
+    name: "3C"
+- model: schedules.Class
+  pk: 10
+  fields:
+    name: "4A"
+- model: schedules.Class
+  pk: 11
+  fields:
+    name: "4B"
+- model: schedules.Class
+  pk: 12
+  fields:
+    name: "4C"
+- model: schedules.Class
+  pk: 13
+  fields:
+    name: "5A"
+- model: schedules.Class
+  pk: 14
+  fields:
+    name: "5B"
+- model: schedules.Class
+  pk: 15
+  fields:
+    name: "5C"
+- model: schedules.Class
+  pk: 16
+  fields:
     name: "6A"
+- model: schedules.Class
+  pk: 17
+  fields:
+    name: "6B"
+- model: schedules.Class
+  pk: 18
+  fields:
+    name: "6C"

@@ -1,9 +1,72 @@
 - model: schedules.Teacher
   pk: 1
   fields:
-    name: "Wolverine"
-
+    name: "Batman"
 - model: schedules.Teacher
   pk: 2
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 3
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 4
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 5
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 6
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 7
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 8
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 9
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 10
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 11
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 12
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 13
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 14
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 15
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 16
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 17
+  fields:
+    name: "Batman"
+- model: schedules.Teacher
+  pk: 18
   fields:
     name: "Batman"
