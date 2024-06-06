@@ -20,6 +20,11 @@ WORKDIR /pure
 
 RUN pip install -r /pure/requirements.txt
 
+CMD python /pure/pure/manage.py migrate
+
 ENV PYTHONUNBUFFERED 1
 ENV PYTHONDONTWRITEBYTECODE 1
-CMD tail -f /dev/null
+
+# CMD tail -f /dev/null
+
+ENTRYPOINT cd pure && python manage.py test schedules.tests

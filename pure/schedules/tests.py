@@ -8,7 +8,7 @@ from unittest import mock
 from schedules.models import Schedule
 
 from django.test.utils import override_settings
-from django.conf import settings
+
 
 class ScheduleViewSetTest(TestCase):
     fixtures = [
