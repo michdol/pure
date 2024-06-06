@@ -7,6 +7,8 @@ from unittest import mock
 
 from schedules.models import Schedule
 
+from django.test.utils import override_settings
+from django.conf import settings
 
 class ScheduleViewSetTest(TestCase):
     fixtures = [
@@ -23,10 +25,8 @@ class ScheduleViewSetTest(TestCase):
 
     def test_get(self):
         response = self.client.get("/schedules/")
-
         self.assertEqual(response.status_code, status.HTTP_200_OK)
         expected_count = Schedule.objects.all().count()
-        print("expected_count", expected_count)
         self.assertEqual(expected_count, len(response.data))
 
         schedule1 = response.data[0]
@@ -38,6 +38,7 @@ class ScheduleViewSetTest(TestCase):
     def test_get_by_class_name(self):
         class_param = "5A"
         response = self.client.get("/schedules/", data={"class": class_param})
+
         expected_count = Schedule.objects.filter(_class__name=class_param).count()
         self.assertEqual(len(response.data), expected_count)
 
@@ -51,3 +52,12 @@ class ScheduleViewSetTest(TestCase):
         response = self.client.get("/schedules/", data={"class": class_param, "today": True})
         expected_count = Schedule.objects.filter(_class__name=class_param, day_of_week=day_of_week).count()
         self.assertEqual(len(response.data), expected_count)
+
+    @override_settings(DEBUG=True)
+    def test_cache(self):
+        self.client.get("/schedules/")
+        from django.db import connection
+        self.assertGreater(len(connection.queries), 0)
+
+        self.client.get("/schedules/")
+        self.assertEqual(len(connection.queries), 0)

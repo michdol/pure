@@ -1,6 +1,6 @@
 from django.db import models
 
-from .constants import DAY_OF_WEEK
+from schedules.constants import DAY_OF_WEEK
 
 
 class Schedule(models.Model):
